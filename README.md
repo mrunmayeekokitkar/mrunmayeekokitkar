@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mrunmayee Kokitkar 👋
 
-<!--
-**mrunmayeekokitkar/mrunmayeekokitkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Software Development & Product Management
 
-Here are some ideas to get you started:
+I’m a Computer Engineering student at Savitribai Phule Pune University passionate about technology, problem solving, and building impactful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- Python
+- Data Structures & Problem Solving
+- Software Development
+- Product Management & Product Thinking
+
+I enjoy exploring how technology, user experience, and business strategy come together to solve real-world problems.
+
+I'm actively looking for opportunities to learn, contribute, and grow through projects, internships, and collaborative experiences.
+
+---
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mrunmayee-kokitkar/
